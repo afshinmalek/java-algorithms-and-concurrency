@@ -1,4 +1,4 @@
-# Shortest Path — Dijkstra
+# Shortest Path - Dijkstra
 
 Dijkstra's algorithm over a 50-node weighted graph, assigning each customer to the nearest field station (7, 14, 25, 28, 40) and printing the route.
 
