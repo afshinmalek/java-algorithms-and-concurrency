@@ -1,4 +1,4 @@
-# Natural Merge Sort — Linked List
+# Natural Merge Sort - Linked List
 
 Natural merge sort on a singly linked list, merging existing sorted runs.
 
