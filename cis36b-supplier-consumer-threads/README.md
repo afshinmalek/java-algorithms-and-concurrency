@@ -1,4 +1,4 @@
-# Supplier-Consumer — Threads and Wait/Notify
+# Supplier-Consumer - Threads and Wait/Notify
 
 Ten suppliers and ten consumers coordinated through a MeetingRoom using synchronized wait/notify, with timestamped logging.
 
