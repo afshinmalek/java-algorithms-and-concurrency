@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚢 Battleships — Networked GUI Game
+# 🚢 Battleships - Networked GUI Game
 
 ### Java · Swing · Socket Networking
 
