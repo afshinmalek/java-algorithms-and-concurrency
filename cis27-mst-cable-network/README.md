@@ -1,4 +1,4 @@
-# Minimum Cable Network — Lazy Prim's MST
+# Minimum Cable Network - Lazy Prim's MST
 
 Lazy Prim's minimum spanning tree for a cable network, plus per-station MST costs, choosing the cheapest field station.
 
