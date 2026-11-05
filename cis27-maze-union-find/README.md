@@ -1,4 +1,4 @@
-# Maze — Union-Find
+# Maze - Union-Find
 
 Union-find maze generation: cells are joined by removing walls until the maze is fully connected. Library code, no main method; a sample maze is shown in the source comments.
 
