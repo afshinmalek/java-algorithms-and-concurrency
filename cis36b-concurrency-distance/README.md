@@ -1,4 +1,4 @@
-# Parallel Distance Calculation — Fork/Join
+# Parallel Distance Calculation - Fork/Join
 
 Distance calculation over 10 million point pairs, comparing single-threaded time with Fork/Join at several thresholds.
 
